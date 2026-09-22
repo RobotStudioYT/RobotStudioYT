@@ -3,7 +3,7 @@
 
 **🖳 Program Used | For Animation : Mineimator**
 
-**</> Dev Languages Used | HTML & CSS & JS**
+**</> Dev Languages Used | HTML & CSS & JS & PHP**
 
 **🌐︎ You Can Visit My Website For More Informations**
 
